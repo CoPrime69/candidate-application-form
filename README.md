@@ -84,7 +84,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
-## How It Works
+<!-- ## How It Works
 
 1. **Authentication**: Users sign in through NextAuth.js integration
 2. **Dashboard**: The main interface displays candidate cards with key information
@@ -93,7 +93,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
    - Update candidate status with a drag-and-drop interface
    - View detailed profiles with application history
 4. **Interview Scheduling**: Calendar integration for scheduling and notifications
-5. **Analytics**: Real-time metrics on hiring pipeline and conversion rates
+5. **Analytics**: Real-time metrics on hiring pipeline and conversion rates -->
 
 ## Project Structure
 
