@@ -39,18 +39,10 @@ Create a `.env.local` file in the root directory with the following variables:
 
 ```
 # API Keys
-NEXT_PUBLIC_API_URL=your_api_url_here
-API_KEY=your_api_key_here
-
-# Authentication
-AUTH_SECRET=your_auth_secret_here
-NEXTAUTH_URL=http://localhost:3000
-
-# Database
-DATABASE_URL=your_database_connection_string
-
-# Other Services
-MAIL_SERVICE_API_KEY=your_mail_service_key
+PINECONE_API_KEY=YOUR_API_KEY
+PINECONE_ENVIRONMENT=YOUR_ENVIRONMENT
+PINECONE_INDEX=YOUR_INDEX
+GEMINI_API_KEY=YOUR_API_KEY
 ```
 
 Make sure to replace the placeholder values with your actual credentials. Never commit the `.env.local` file to version control.
