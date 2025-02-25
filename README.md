@@ -8,8 +8,6 @@ This application serves as a comprehensive platform for tracking and managing jo
 
 - View a dashboard of all candidates with sorting and filtering capabilities
 - Add new candidates with detailed profile information
-- Track application status (Applied, Interviewing, Offered, Rejected)
-- Schedule and manage interviews
 - Generate reports on hiring metrics
 
 The application uses a modern tech stack with server-side rendering for optimal performance and SEO, while providing a seamless user experience through client-side interactions.
